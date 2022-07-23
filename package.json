@@ -1,0 +1,27 @@
+{
+  "name": "node-course-collection",
+  "version": "1.0.0",
+  "description": "a collection of node apps",
+  "main": "NotesApp/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rub1sco/NodeCourseProjects.git"
+  },
+  "author": "Tom Lucero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rub1sco/NodeCourseProjects/issues"
+  },
+  "homepage": "https://github.com/rub1sco/NodeCourseProjects#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "ts-node": "^10.9.1"
+  }
+}
